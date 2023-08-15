@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name"  : "rrweb",
+            "link": "https://github.com/rrweb-io/rrweb",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely."
         }
     ]
 }
