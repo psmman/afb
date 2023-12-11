@@ -2096,5 +2096,14 @@
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         }
+         {
+            "name": "Hacktoberfest Quiz",
+            "link": "https://github.com/mvisic/Hacktoberfest-Quiz",
+            "label": "good first issue",
+            "technologies": [
+                "python"
+            ],
+            "description": "A short Hacktoberfest quiz created in python"
+        }
     ]
 }
