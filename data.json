@@ -2095,6 +2095,52 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
-        }
+        },
+        {
+            "name": "Tokio",
+            "link": "https://github.com/tokio-rs/tokio",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A runtime for writing reliable asynchronous applications with Rust."
+        },
+        {
+            "name": "Tracing",
+            "link": "https://github.com/tokio-rs/tracing",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Application level tracing for Rust."
+        },
+        {
+            "name": "Nvtop",
+            "link": "https://github.com/Syllo/nvtop",
+            "label": "good-first-issue",
+            "technologies": [
+                "C"
+            ],
+            "description": "GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm"
+        },
+        {
+            "name": "Lexido",
+            "link": "https://github.com/micr0-dev/lexido",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A terminal assistant, powered by Gemini"
+        },
+        {
+            "name": "Under-new-management",
+            "link": "https://github.com/classvsoftware/under-new-management",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Detect when your installed Chrome extensions have changed owners."
+        } 
+
     ]
 }
